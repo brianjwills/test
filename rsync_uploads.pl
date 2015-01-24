@@ -3,7 +3,7 @@
 use strict;
 use DBI;
 
-my $dsn = 'aisleiq_demo_production';
+my $dsn = '';
 my $user = '';
 my $password = '';
 
